@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário de mentoria" src="" width="60%">
+  <img alt="Formulário de mentoria" src="https://i.imgur.com/TGzYjVK.png" width="60%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Formulário onde foram usados vários tipos de inputs como de chat, email, seleção.
+Formulário onde foram usados vários tipos de inputs como de text, email, seleção, data, hora.
 
 - [Visite o projeto online]()
 
